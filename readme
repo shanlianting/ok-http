@@ -1,0 +1,32 @@
+
+
+CommonOkHttpClient.post(url,params,DisponseHandler(){
+        onSuccess()
+        onFailed()
+
+})
+
+
+1,使用okhttp框架发起网络请求
+
+  get
+  post
+  file
+
+  CommonOKhttpClient.method
+  (url,params,DisponseHanler(){
+    onSuccess()
+    onFailed()
+
+  })
+  1,request
+  2,listerner
+  3,exception
+  4,response
+  5,parse
+
+
+
+
+
+
