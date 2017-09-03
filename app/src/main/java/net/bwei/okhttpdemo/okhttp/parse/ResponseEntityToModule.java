@@ -18,6 +18,7 @@ import org.json.JSONObject;
 public class ResponseEntityToModule
 {
 
+
 	public static Object parseJsonToModule(String jsonContent, Class<?> clazz)
 	{
 		Object moduleObj = null;
